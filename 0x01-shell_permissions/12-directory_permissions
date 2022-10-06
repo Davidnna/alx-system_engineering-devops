@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m 753 my_dir
