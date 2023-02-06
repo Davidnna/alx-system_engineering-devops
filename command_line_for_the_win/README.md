@@ -1,1 +1,1 @@
-This project challenges us in learning and making use of our command line in bash.
+a readme for command line challenge
